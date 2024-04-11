@@ -1,3 +1,5 @@
+![Dashboard](https://github.com/Odeyiany2/Road-Transport-Accidents-in-Nigeria-Data-Analysis/blob/main/CAUSATIVE%20FACTORS%203.png)
+
 # ROAD TRANSPORT ACCIDENTS IN NIGERIA
 
 In this project, I will be analyzing road accidents dataset for the year 2023 to identify patterns, trends, and contributing factors. The goal is to gain insights into the causes 
